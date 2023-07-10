@@ -1,2 +1,2 @@
-# Repositorio-Practica
-Repositorio prueba del PrepCourse
+Mariam Rodrigez
+Repositorio prueba del PrepCourse Henry
